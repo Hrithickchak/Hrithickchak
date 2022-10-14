@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hrithick Chakraborty
 - 👀 I’m interested in Game Development, Software Development and Quantum Computing
-- 🌱 I’m currently learning modern artificial intelligence techniques, basics of machine learning and applications of quantum computing
+- 🌱 I’m currently learning modern artificial intelligence techniques, Intermediate machine learning and applications of quantum computing
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 Reach me at hrithickchak@gmail.com
 
